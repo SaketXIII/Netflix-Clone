@@ -1,2 +1,2 @@
-# Final-Netflix-Clone-Istg
-final fr
+Netlifx Clone 
+Made Using HTML and Css Only.
